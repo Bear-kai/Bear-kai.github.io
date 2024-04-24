@@ -25,7 +25,7 @@ organizations:
   url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stay simple! be happy!
+bio: Stay simple! Be happy!
 
 # Interests to show in About widget
 interests:
