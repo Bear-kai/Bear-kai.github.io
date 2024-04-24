@@ -57,8 +57,8 @@ sections:
     id: news
     content:
       title: Latest news
-      text: |-
-        * 2021/4: I come back campus from a company, becoming a PhD student in SJTU!
+      text: '' # |-
+        #* 2021/4: I come back campus from a company, becoming a PhD student in SJTU!
     design:
       columns: '2'
       view: List
