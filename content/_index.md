@@ -64,6 +64,7 @@ sections:
       view: List
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience

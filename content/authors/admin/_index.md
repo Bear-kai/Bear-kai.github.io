@@ -126,7 +126,7 @@ social:
   #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false  # true
+highlight_name: true
 ---
 
 I am a first-year Ph.D. candidate in Machine Vision and Intelligence Group (MVIG) at Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Cewu Lu. Before that, I received my master's degree at Northwestern Polytechnical University (NWPU), under the supervision of Prof. Junwei Han. My research interests mainly include image recognition and point-cloud understanding. :laughing:
