@@ -53,17 +53,12 @@ sections:
   #   design:
   #     columns: '1'
 
-  - block: collection
+  - block: markdown
     id: news
     content:
       title: Latest news
       text: |-
         * 2021/4: I come back campus from a company, becoming a PhD student in SJTU!
-      filters:
-        folders: ''
-          # - publication
-        exclude_featured: false # true
-        exclude_past: true
     design:
       columns: '2'
       view: List
