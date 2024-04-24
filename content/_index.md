@@ -44,14 +44,14 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
 
   - block: collection
     id: news
@@ -195,15 +195,12 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
 
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
 
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
   - block: collection
     id: featured
     content:
@@ -229,7 +226,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: 2
 
   # - block: collection
   #   id: talks
@@ -247,6 +244,15 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
 
   - block: contact
     id: contact
