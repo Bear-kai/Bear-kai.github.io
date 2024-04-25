@@ -3,7 +3,7 @@
 title: 熊凯
 
 # Name pronunciation (optional)
-name_pronunciation: Kai Xiong
+name_pronunciation: Xiong Kai
 
 # Full name (for SEO)
 # first_name: Shiung Wu
