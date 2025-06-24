@@ -29,9 +29,11 @@ bio: Stay simple! Be happy!
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Image Recognition
+- Imitation Learning
+- 6D Object Pose Estimation
 - 3D Point-level Understanding
+- Image Recognition
+- Machine Learning
 
 # Education to show in About widget
 education:
@@ -129,5 +131,5 @@ social:
 highlight_name: true
 ---
 
-I am a first-year Ph.D. candidate in Machine Vision and Intelligence Group (MVIG) at Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Cewu Lu. Before that, I received my master's degree at Northwestern Polytechnical University (NWPU), under the supervision of Prof. Junwei Han. My research interests mainly include image recognition and point-cloud understanding. :laughing:
+I am a Ph.D. candidate in Machine Vision and Intelligence Group (MVIG) at Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Cewu Lu. Before that, I received my master's degree at Northwestern Polytechnical University (NWPU), under the supervision of Prof. Junwei Han. My current focus is on object pose estimation and imitation learning. :laughing:
 <!-- {style="text-align: justify;"} -->

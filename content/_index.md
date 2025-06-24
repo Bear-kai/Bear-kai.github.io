@@ -58,7 +58,9 @@ sections:
     content:
       title: Latest news
       text: |-
-        * 2021/4: I come back campus from a company, becoming a PhD student in SJTU!
+        * 2025/4: Oh no, I have entered a PhD deferment. Several projects I worked on before have ended in failure. Such a mess! I am still striving and struggling to get out.
+        * 2024/6: Our paper on 6D object pose dataset "PACE" is accepted by ECCV 2024!
+        * 2021/4: I quit from the CVTE company, and now I am a PhD student in SJTU!
     design:
       columns: '2'
       view: List
@@ -93,7 +95,7 @@ sections:
         - title: Algorithm Engineer 
           company: CVTE Research
           company_url: ''
-          company_logo: ''
+          company_logo: org-cvte
           location: Guangzhou
           date_start: '2018-05-01'
           date_end: '2021-03-01'
@@ -107,7 +109,7 @@ sections:
         - title: Master student
           company: Northwestern Polytechnical University
           company_url: ''
-          company_logo: ''
+          company_logo: org-nwpu
           location: Xi'an
           date_start: '2015-09-01'
           date_end: '2018-04-01'
